@@ -7,4 +7,7 @@
 <!---
 Augustaedet/Augustaedet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---:Augusta:~edet$ cd / users/edet/desktop/my-repo; >
+Augusta:my-repo edet$ git init
+: Augusta:my -repo edet$ git staus 
+On branch master
